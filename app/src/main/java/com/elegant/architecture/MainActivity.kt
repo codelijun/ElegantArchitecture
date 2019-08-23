@@ -1,4 +1,4 @@
-package com.mvpplus
+package com.elegant.architecture
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
