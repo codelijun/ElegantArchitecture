@@ -1,2 +1,2 @@
 include ':app', ':jobscheduler', ':mvpplus'
-rootProject.name='ElegantArchitecture'
+rootProject.name='MVPPlus'
